@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meetup</string>
+    <string name="location">Show Location</string>
+</resources>
